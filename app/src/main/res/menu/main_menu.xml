@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Control_DOC_Activity">
+
+    <item android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@drawable/searchuser"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/action_allUser"
+        android:icon="@drawable/group"
+        android:title="Users"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_send"
+        android:icon="@drawable/sendsms"
+        android:title="SMS"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom"/>
+
+</menu>

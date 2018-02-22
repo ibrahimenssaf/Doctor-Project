@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hospital App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="txt_message">Thanks for visiting this app, please fill in the information correctly.
+To help others when they need them</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
